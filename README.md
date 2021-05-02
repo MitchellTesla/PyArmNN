@@ -1,4 +1,6 @@
 # PyArmNN-MT
+NOTE: This repository is experimental and was built for Linux integration testing and development.
+Please refer to the original repo for clone or copying.
 
 PyArmNN is a python extension for [Arm NN SDK](https://developer.arm.com/ip-products/processors/machine-learning/arm-nn) and provides an interface similar to Arm NN C++ API.
 
